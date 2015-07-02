@@ -1,0 +1,847 @@
+[
+  {
+    "symbolicName": "derbyLocale_es",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "887989b15f1877e1e34fa9065be4629625efbfa2",
+    "jarFileModificationDate": "2015-06-15T10:26:25.674+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_45\\db\\lib\\derbyLocale_es.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.beust.jcommander",
+    "version": {
+      "major": 1,
+      "minor": 29,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b2072b3ef59c398c0569a8735820af5345df7af0",
+    "jarFileModificationDate": "2015-06-04T12:17:14+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\jcommander-1.29.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "derbyLocale_pt_BR",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6b7c9f134f7459021c5dc8e3ae3cdb3c55c26540",
+    "jarFileModificationDate": "2015-06-15T10:26:25.674+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_45\\db\\lib\\derbyLocale_pt_BR.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "derbytools",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ae1e9bd299a128c0ed4dca129b653971217b4778",
+    "jarFileModificationDate": "2015-06-15T10:26:25.954+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_45\\db\\lib\\derbytools.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "junit-dep-4.11",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ad16b17a5c087c86f0d9b527fffc9969692ed8a9",
+    "jarFileModificationDate": "2015-06-04T12:17:14+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\junit-dep-4.11.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "xml-apis-1.4.01",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3789d9fada2d3d458c4ba2de349d48780f381ee3",
+    "jarFileModificationDate": "2015-06-04T12:17:14+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\xml-apis-1.4.01.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "serializer-2.7.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "24247f3bb052ee068971393bdb83e04512bb1c3c",
+    "jarFileModificationDate": "2015-06-04T12:17:14+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\serializer-2.7.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jconsole",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "af2e331adc6d26dfdc7f9ab44bd78b106c1faf85",
+    "jarFileModificationDate": "2015-06-15T10:26:29.419+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_45\\lib\\jconsole.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.james.apache-mime4j",
+    "version": {
+      "major": 0,
+      "minor": 6,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "945007627e8d12275d755081a9e609c018e1210d",
+    "jarFileModificationDate": "2015-06-04T12:17:12+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\apache-mime4j-0.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "nekohtml-1.9.22",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4f54af68ecb345f2453fb6884672ad08414154e3",
+    "jarFileModificationDate": "2015-06-04T12:17:14+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\nekohtml-1.9.22.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.gson",
+    "version": {
+      "major": 2,
+      "minor": 3,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ecb6e1f8e4b0e84c4b886c2f14a1500caf309757",
+    "jarFileModificationDate": "2015-06-04T12:17:14+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\gson-2.3.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "derbyLocale_fr",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e7dca6ac1189fde14ca790d73895a5dc6ac3f16d",
+    "jarFileModificationDate": "2015-06-15T10:26:25.674+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_45\\db\\lib\\derbyLocale_fr.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "derbyLocale_ko_KR",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e6cd273f2227a672e34d92ffad161a256eb2bb1d",
+    "jarFileModificationDate": "2015-06-15T10:26:25.674+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_45\\db\\lib\\derbyLocale_ko_KR.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "hamcrest-library-1.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4785a3c21320980282f9f33d0d1264a69040538f",
+    "jarFileModificationDate": "2015-06-04T12:17:14+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\hamcrest-library-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "net.sourceforge.htmlunit.htmlunit",
+    "version": {
+      "major": 2,
+      "minor": 17,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "162c371a2ab148d1734acf27abf31b5255b332b8",
+    "jarFileModificationDate": "2015-06-04T12:17:14+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\htmlunit-2.17.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "tools",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "05a8574d45dd3f21144b0bb0883390756153cb61",
+    "jarFileModificationDate": "2015-06-15T10:26:40.266+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_45\\lib\\tools.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "derbyLocale_zh_TW",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "11da98c9f4f0199e7ee1a130e7df570d51ded9e3",
+    "jarFileModificationDate": "2015-06-15T10:26:25.674+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_45\\db\\lib\\derbyLocale_zh_TW.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.websocket.client",
+    "version": {
+      "major": 9,
+      "minor": 2,
+      "micro": 11,
+      "qualifier": "v20150529"
+    },
+    "jarFileFingerprint": "7e2597d596a1e99a6ca3d95356563befd9ec501b",
+    "jarFileModificationDate": "2015-06-04T12:17:14+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\websocket-client-9.2.11.v20150529.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.collections",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "761ea405b9b37ced573d2df0d1e3a4e0f9edc668",
+    "jarFileModificationDate": "2015-06-04T12:17:12+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\commons-collections-3.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jboss.netty",
+    "version": {
+      "major": 3,
+      "minor": 5,
+      "micro": 7,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "811465e6dfc89d7c78d21de6a9747b6046cb5403",
+    "jarFileModificationDate": "2015-06-04T12:17:14+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\netty-3.5.7.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "ant-javafx",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2f5425eaffebfa6fd72c36c174298c6edf2bb6d2",
+    "jarFileModificationDate": "2015-06-15T10:26:29.339+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_45\\lib\\ant-javafx.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.sun.jna.platform",
+    "version": {
+      "major": 4,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "23457ad1cf75c2c16763330de5565a0e67b4bc0a",
+    "jarFileModificationDate": "2015-06-04T12:17:14+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\jna-platform-4.1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "derbyLocale_pl",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "727b8d22d81323c9c9f28263c1e339ac020d1a31",
+    "jarFileModificationDate": "2015-06-15T10:26:25.674+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_45\\db\\lib\\derbyLocale_pl.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "packager",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "373ab529a171d836d432c4ba0bfbfa392c270afb",
+    "jarFileModificationDate": "2015-06-15T10:26:30.509+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_45\\lib\\packager.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.util",
+    "version": {
+      "major": 9,
+      "minor": 2,
+      "micro": 11,
+      "qualifier": "v20150529"
+    },
+    "jarFileFingerprint": "5f547da1eb601c2a4697ecfeb425f8f6961800c3",
+    "jarFileModificationDate": "2015-06-04T12:17:14+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\jetty-util-9.2.11.v20150529.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.guava",
+    "version": {
+      "major": 18,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cce0823396aa693798f8882e64213b1772032b09",
+    "jarFileModificationDate": "2015-06-04T12:17:14+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\guava-18.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "derbyLocale_hu",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5b4eed308270697ad23057ee50ba3e4ce366bd4b",
+    "jarFileModificationDate": "2015-06-15T10:26:25.674+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_45\\db\\lib\\derbyLocale_hu.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.codec",
+    "version": {
+      "major": 1,
+      "minor": 10,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4b95f4897fa13f2cd904aee711aeafc0c5295cd8",
+    "jarFileModificationDate": "2015-06-04T12:17:12+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\commons-codec-1.10.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.sun.jna",
+    "version": {
+      "major": 4,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1c12d070e602efd8021891cdd7fd18bc129372d4",
+    "jarFileModificationDate": "2015-06-04T12:17:14+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\jna-4.1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "sa-jdi",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "96eab06c0a1686fb340db6cbe6aad9560ef3b449",
+    "jarFileModificationDate": "2015-06-15T10:26:30.509+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_45\\lib\\sa-jdi.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "xalan-2.7.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d55d3f02a56ec4c25695fe67e1334ff8c2ecea23",
+    "jarFileModificationDate": "2015-06-04T12:17:14+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\xalan-2.7.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "net.sourceforge.cssparser.cssparser",
+    "version": {
+      "major": 0,
+      "minor": 9,
+      "micro": 16,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3f751904d467537b8ee99c612e69d4e79d6271cf",
+    "jarFileModificationDate": "2015-06-04T12:17:14+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\cssparser-0.9.16.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "phantomjsdriver-1.2.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c5106c0223512a467c03b26f8a31e4027ddaa495",
+    "jarFileModificationDate": "2015-06-04T12:17:14+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\phantomjsdriver-1.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.websocket.api",
+    "version": {
+      "major": 9,
+      "minor": 2,
+      "micro": 11,
+      "qualifier": "v20150529"
+    },
+    "jarFileFingerprint": "ded6ab7af4989e92efe5f602a57e231dc1ffa319",
+    "jarFileModificationDate": "2015-06-04T12:17:14+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\websocket-api-9.2.11.v20150529.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "derbyLocale_de_DE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "dd010f13380189d6b092a949c9bc3eb97ff2fe91",
+    "jarFileModificationDate": "2015-06-15T10:26:25.674+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_45\\db\\lib\\derbyLocale_de_DE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "hamcrest-core-1.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "42a25dc3219429f0e5d060061f71acb49bf010a0",
+    "jarFileModificationDate": "2015-06-04T12:17:14+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\hamcrest-core-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpclient",
+    "version": {
+      "major": 4,
+      "minor": 4,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "016d0bc512222f1253ee6b64d389c84e22f697f0",
+    "jarFileModificationDate": "2015-06-04T12:17:12+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\httpclient-4.4.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "selenium-java-2.46.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "06e3ac1e1faece0ec649722c47095dca24d1e50a",
+    "jarFileModificationDate": "2015-06-04T12:17:12+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\selenium-java-2.46.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "dt",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f4d2d5234b6118ff828bc1d40debb9247bccf043",
+    "jarFileModificationDate": "2015-06-15T10:26:29.409+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_45\\lib\\dt.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "derbyLocale_ja_JP",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4f991b93a789bfdc43b27df813454e2d18a2e0e5",
+    "jarFileModificationDate": "2015-06-15T10:26:25.674+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_45\\db\\lib\\derbyLocale_ja_JP.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "derbynet",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f0efda5409b9454a49325f4ba2531a1352f5ab3a",
+    "jarFileModificationDate": "2015-06-15T10:26:25.684+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_45\\db\\lib\\derbynet.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "derbyrun",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bc6e089591e4388c66348cbf3da01008ef0f5aba",
+    "jarFileModificationDate": "2015-06-15T10:26:25.684+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_45\\db\\lib\\derbyrun.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "selenium-java-2.46.0-srcs",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "dcb3ad8476db0dddcc15b57664e3a2ffc91d28c4",
+    "jarFileModificationDate": "2015-06-04T12:17:12+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\selenium-java-2.46.0-srcs.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "xercesImpl-2.11.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9bb329db1cfc4e22462c9d6b43a8432f5850e92c",
+    "jarFileModificationDate": "2015-06-04T12:17:14+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\xercesImpl-2.11.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "derby",
+    "version": {
+      "major": 10,
+      "minor": 11,
+      "micro": 1000002,
+      "qualifier": "1629631"
+    },
+    "jarFileFingerprint": "c535bdaaf6092fbba9f8edacf56d5b4fbd89e196",
+    "jarFileModificationDate": "2015-06-15T10:26:24.594+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_45\\db\\lib\\derby.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpmime",
+    "version": {
+      "major": 4,
+      "minor": 4,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2f8757f5ac5e38f46c794e5229d1f3c522e9b1df",
+    "jarFileModificationDate": "2015-06-04T12:17:12+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\httpmime-4.4.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "derbyoptionaltools",
+    "version": {
+      "major": 10,
+      "minor": 11,
+      "micro": 1000002,
+      "qualifier": "1629631"
+    },
+    "jarFileFingerprint": "d05b2e39a42364856055b73dab276b90dd333f78",
+    "jarFileModificationDate": "2015-06-15T10:26:25.684+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_45\\db\\lib\\derbyoptionaltools.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "sac-1.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cdb2dcb4e22b83d6b32b93095f644c3462739e82",
+    "jarFileModificationDate": "2015-06-04T12:17:14+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\sac-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.io",
+    "version": {
+      "major": 9,
+      "minor": 2,
+      "micro": 11,
+      "qualifier": "v20150529"
+    },
+    "jarFileFingerprint": "8d13b907fcc1bc190901f6842752fc6be8d406cf",
+    "jarFileModificationDate": "2015-06-04T12:17:14+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\jetty-io-9.2.11.v20150529.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "derbyLocale_zh_CN",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "de85027d8297989e8509cfc12db2ae79356eb441",
+    "jarFileModificationDate": "2015-06-15T10:26:25.674+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_45\\db\\lib\\derbyLocale_zh_CN.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.websocket.common",
+    "version": {
+      "major": 9,
+      "minor": 2,
+      "micro": 11,
+      "qualifier": "v20150529"
+    },
+    "jarFileFingerprint": "3df0afdd4a9cf3ba9b6fe48226cc8917ee2a14f5",
+    "jarFileModificationDate": "2015-06-04T12:17:14+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\websocket-common-9.2.11.v20150529.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "bsh-1.3.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1fed35193d56470f46c0fb33917e3e82c0c42358",
+    "jarFileModificationDate": "2015-06-04T12:17:12+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\bsh-1.3.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "cglib-nodep-2.1_3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "58d3be5953547c0019e5704d6ed4ffda3b0c7c66",
+    "jarFileModificationDate": "2015-06-04T12:17:12+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\cglib-nodep-2.1_3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "derbyclient",
+    "version": {
+      "major": 10,
+      "minor": 11,
+      "micro": 1000002,
+      "qualifier": "1629631"
+    },
+    "jarFileFingerprint": "19fe1ed7cc48521c5101932caec8bc58e91637c4",
+    "jarFileModificationDate": "2015-06-15T10:26:24.594+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_45\\db\\lib\\derbyclient.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "javafx-mx",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "30ba0882683246050a5a2e8aea0d58c2f3d7e48a",
+    "jarFileModificationDate": "2015-06-15T10:26:29.409+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_45\\lib\\javafx-mx.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.lang3",
+    "version": {
+      "major": 3,
+      "minor": 4,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5fe28b9518e58819180a43a850fbc0dd24b7c050",
+    "jarFileModificationDate": "2015-06-04T12:17:12+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\commons-lang3-3.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpcore",
+    "version": {
+      "major": 4,
+      "minor": 4,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f5aa318bda4c6c8d688c9d00b90681dcd82ce636",
+    "jarFileModificationDate": "2015-06-04T12:17:12+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\httpcore-4.4.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "derbyLocale_cs",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0f020e85bddeb51ee103139d255107728cbe111a",
+    "jarFileModificationDate": "2015-06-15T10:26:24.604+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_45\\db\\lib\\derbyLocale_cs.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.logging",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f",
+    "jarFileModificationDate": "2015-06-04T12:17:12+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\commons-logging-1.1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.testng",
+    "version": {
+      "major": 6,
+      "minor": 8,
+      "micro": 5,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "82544999b32ed40cc98ca0eef40fcaf3186b1711",
+    "jarFileModificationDate": "2015-06-04T12:17:14+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\testng-6.8.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.io",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b1b6ea3b7e4aa4f492509a4952029cd8e48019ad",
+    "jarFileModificationDate": "2015-06-04T12:17:12+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\commons-io-2.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "htmlunit-core-js-2.17",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4316d68f449d42f69faf4ee255aa31b03e4f7dd5",
+    "jarFileModificationDate": "2015-06-04T12:17:14+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\htmlunit-core-js-2.17.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "derbyLocale_ru",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9d38ce8d9bc66130636fc2ae33ccd9cd3e815e9d",
+    "jarFileModificationDate": "2015-06-15T10:26:25.674+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_45\\db\\lib\\derbyLocale_ru.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.exec",
+    "version": {
+      "major": 1,
+      "minor": 3,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8dfb9facd0830a27b1b5f29f84593f0aeee7773b",
+    "jarFileModificationDate": "2015-06-04T12:17:12+05:30",
+    "location": "D:\\selenium-2.44.0\\selenium-2.46.0\\libs\\commons-exec-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "derbyLocale_it",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "00dfa00e248cc28c632d7ad6615ac4984a7d6022",
+    "jarFileModificationDate": "2015-06-15T10:26:25.674+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_45\\db\\lib\\derbyLocale_it.jar",
+    "javaRuntime": false
+  }
+]

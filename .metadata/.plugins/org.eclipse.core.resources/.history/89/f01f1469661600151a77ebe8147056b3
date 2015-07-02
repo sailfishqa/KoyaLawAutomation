@@ -1,0 +1,57 @@
+package testone;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.support.ui.Select;
+
+public class Icr {
+	
+static WebDriver driver=new FirefoxDriver();
+
+	public static void main(String[] args) throws InterruptedException {
+		
+		
+		driver.manage().window().maximize();
+		driver.get("http://73f03a3c373340a596d220e47e539824.cloudapp.net");
+		
+		Thread.sleep(5000);
+		driver.findElement(By.xpath(".//*[@id='txtUserName']")).sendKeys("sudhaadmin");
+		driver.findElement(By.xpath(".//*[@id='txtPassword']")).sendKeys("123456");
+		driver.findElement(By.xpath(".//*[@id='login-box']/div[1]/div[1]/fieldset/div[3]/label/input")).click();
+		driver.findElement(By.xpath(".//*[@id='btnSubmit']")).click();		
+		Thread.sleep(5000);
+		Icr rt=new Icr();
+		rt.repeat1();
+	}
+	
+	public void repeat1() throws InterruptedException
+	{
+		Thread.sleep(1000);
+		driver.findElement(By.xpath(".//*[@id='sidebar']/ul/li[4]/a/span")).click();//report
+		Thread.sleep(1000);
+		driver.findElement(By.xpath(".//*[@id='sidebar']/ul/li[4]/ul/li[2]/a")).click();//custom 
+		Thread.sleep(1000);
+		driver.findElement(By.xpath(".//*[@id='sidebar']/ul/li[4]/ul/li[2]/ul/li[1]/a")).click();//generate
+		Thread.sleep(5000);
+		driver.findElement(By.xpath(".//*[@id='sample-table-2']/tbody/tr/td/a")).click();
+		Thread.sleep(5000);
+		driver.findElement(By.xpath(".//*[@id='ContentPlaceHolder1_chkExec_0']")).click();
+		Thread.sleep(1000);
+		new Select(driver.findElement(By.xpath(".//*[@id='ddlClientEntities']"))).selectByVisibleText("All Client Entities");
+		Thread.sleep(2000);
+		driver.findElement(By.xpath(".//*[@id='LoadingTree']")).click();
+		Thread.sleep(10000);
+		driver.findElement(By.xpath(".//*[@id='AgreementTree']/ul/li/ul/li/div/div/div/span[1]/span")).click();
+		Thread.sleep(3000);
+		driver.findElement(By.xpath(".//*[@id='AgreementTree']/ul/li/ul/li/ul/li[1]/div/div/div/div/span[2]/label/span[1]")).click();
+		Thread.sleep(2000);
+		driver.findElement(By.xpath(".//*[@id='btnsubmit']")).click();
+		Thread.sleep(10000);
+	}
+
+	public void Allinclude()
+	{
+		
+	}
+}

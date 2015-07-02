@@ -1,0 +1,47 @@
+package DocuTrackerPac;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.support.ui.Select;
+
+public class ISDAworkflow {
+
+	public static void CreateISDAWorkflow() throws InterruptedException {
+		//  Helper.loginapp("maniadmin", "123456","http://73f03a3c373340a596d220e47e539824.cloudapp.net");
+		//System.out.println("Answering CreateISDAWorkflow all provisions");
+		 
+		WebDriver driver=new FirefoxDriver();
+		driver.manage().window().maximize();
+		driver.get("http://73f03a3c373340a596d220e47e539824.cloudapp.net");
+		driver.findElement(By.xpath(".//*[@id='txtUserName']")).sendKeys("maniadmin");
+		driver.findElement(By.xpath(".//*[@id='txtPassword']")).sendKeys("123456");
+		driver.findElement(By.xpath(".//*[@id='login-box']/div[1]/div[1]/fieldset/div[3]/label/input")).click();
+		driver.findElement(By.xpath(".//*[@id='btnSubmit']")).click();
+		  driver.findElement(By.xpath(".//*[@id='sidebar']/ul/li[3]/a/span")).click();
+		  driver.findElement(By.xpath("html/body/form/div[4]/div/div/div[1]/div/ul/li[3]/ul/li[1]/a")).click();
+		  driver.findElement(By.xpath("//a[@href='NewISDAAgreement.aspx']")).click();
+		  //manage Agrements create agrement dropdown code
+		  new Select(driver.findElement(By.id("ContentPlaceHolder1_ddlCounterParty"))).selectByVisibleText("chirucounterparty");
+		  Thread.sleep(3000);
+		  new Select(driver.findElement(By.xpath(".//*[@id='ContentPlaceHolder1_ddlClient']"))).selectByVisibleText("Krishna March 2015");
+		  new Select(driver.findElement(By.id("ContentPlaceHolder1_ddlClientEntities"))).selectByVisibleText("Beta Long Short Master Fund Ltd.");
+		  new Select(driver.findElement(By.id("ContentPlaceHolder1_ddFormofISDA"))).selectByVisibleText("1992");
+		    for(int i=1;i<5;i++){
+		  //new Select(driver.findElement(By.id("ContentPlaceHolder1_ddl_mm"))).selectByVisibleText("i");
+		  new Select(driver.findElement(By.id("ContentPlaceHolder1_ddl_mm"))).selectByIndex(i);
+		    }
+		  new Select(driver.findElement(By.id("ContentPlaceHolder1_ddl_dd"))).selectByVisibleText("1");
+		  new Select(driver.findElement(By.id("ContentPlaceHolder1_ddl_yyyy"))).selectByVisibleText("2020");
+		  new Select(driver.findElement(By.id("ContentPlaceHolder1_ddSignedCP"))).selectByVisibleText("Yes");
+		  new Select(driver.findElement(By.id("ContentPlaceHolder1_ddSignedCE"))).selectByVisibleText("Yes");
+		  new Select(driver.findElement(By.id("ContentPlaceHolder1_ddStrength"))).selectByVisibleText("Not Applicable");
+		  new Select(driver.findElement(By.id("ContentPlaceHolder1_ddPartyA"))).selectByVisibleText("Counterparty");
+		  new Select(driver.findElement(By.id("ContentPlaceHolder1_ddPartyB"))).selectByVisibleText("Client Entity");
+		  new Select(driver.findElement(By.id("ContentPlaceHolder1_ddAgreementslist"))).selectByVisibleText("Not Applicable");
+		  driver.findElement(By.xpath(".//*[@id='ContentPlaceHolder1_btnSubmit']")).click();
+		
+	}
+	
+
+}

@@ -1,0 +1,22 @@
+package testone;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class Time {
+
+	WebDriver driver=new FirefoxDriver();
+	driver.get("http://73f03a3c373340a596d220e47e539824.cloudapp.net/(S(ukmiexftzbxklpkc3xm4yobc))/DocutrackerLogin.aspx");
+	driver.findElement(By.xpath(".//*[@id='txtUserName']")).sendKeys("maniadmin");
+	driver.findElement(By.xpath(".//*[@id='txtPassword']")).sendKeys("123456");
+	driver.findElement(By.xpath(".//*[@id='login-box']/div[1]/div[1]/fieldset/div[3]/label/input")).click();
+	driver.findElement(By.xpath(".//*[@id='btnSubmit']")).click();
+	/*
+	String actualTitle = driver.getTitle();
+	String expectedTitle = "Title of Page";
+	assertEquals(actualTitle, expectedTitle);
+	*/
+	}}
+		
+

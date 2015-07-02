@@ -1,0 +1,27 @@
+package testone;
+
+import java.util.Random;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.By;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+import com.thoughtworks.selenium.webdriven.WebDriverBackedSelenium;
+
+public class Time {
+	@SuppressWarnings("deprecation")
+	public static void main(String args[]) throws InterruptedException
+	{
+		WebDriver driver = new FirefoxDriver(); 
+		String baseUrl = "http://indianrail.gov.in/"; 
+	WebDriverBackedSelenium se = new WebDriverBackedSelenium(driver, baseUrl); 
+		assertEquals("Title of the Page", se.getTitle());
+		se.stop();
+		  }
+
+	private static void assertEquals(String string, String title) {
+		// TODO Auto-generated method stub
+		
+	}
+		}
+

@@ -1,0 +1,16 @@
+package testone;
+
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+public class Time {
+	public static void main(String args[])
+	{
+		 static Date dNow = new Date( );
+	     static SimpleDateFormat ft =  new SimpleDateFormat ("E yyyy.MM.dd 'at' hh:mm:ss S a zzz");
+	     
+	     
+	     System.out.println(ft.format(dNow));
+	}
+	 
+}

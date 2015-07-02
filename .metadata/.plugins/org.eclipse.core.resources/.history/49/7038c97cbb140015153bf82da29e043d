@@ -1,0 +1,12 @@
+package DocuTrackerPac;
+
+public class PBPredefined {
+
+
+
+	public static void CreatPBPredefinedReportFilters() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

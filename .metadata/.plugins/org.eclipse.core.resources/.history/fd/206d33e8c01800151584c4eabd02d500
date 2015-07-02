@@ -1,0 +1,29 @@
+package testone;
+
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.Random;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.By;
+import org.openqa.selenium.interactions.SendKeysAction;
+import org.openqa.selenium.support.ui.Select;
+
+public class Time {
+	public static void main(String args[])
+	{
+		
+	
+		Random randomGenerator = new Random();
+		  boolean i = true;
+		  while(i)
+		  {
+		   int r = randomGenerator.nextInt(1000);
+		   System.out.println("Generated : " + r);
+		   i=false;  
+		  Thread.sleep(4000);
+		  driver.findElement(By.xpath(".//*[@id='tbReportName']")).sendKeys("dfhj"+ r);
+		  }
+		  
+	}}
+
